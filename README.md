@@ -1,10 +1,10 @@
 Данная программа скрапит популярные статьи / This program scrapes popular articles :
 
-Библиотеки / Libraries
-requests
-beautifulsoup4
-lxml
-fake-useragent
+Библиотеки / Libraries:
+1) requests
+2) beautifulsoup4
+3) lxml
+4) fake-useragent
 
 Установка / installing
 
