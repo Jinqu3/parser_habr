@@ -1,4 +1,4 @@
-Данная программа скрапит популярные статьи / This program scrapes popular articles :
+Данная программа скрапит популярные статьи на Habr.ru / This program scrapes popular articles on Habr.ru :
 
 Библиотеки / Libraries:
 1) requests
