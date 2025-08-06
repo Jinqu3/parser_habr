@@ -1,4 +1,4 @@
-Данная программа парсит популярные статьи на Habr.com / This program parse popular articles on Habr.com :
+Данная программа парсит популярные статьи на Habr.com и добавляет их в json объекты/ This program parse popular articles on Habr.com and put it in json objects:
 
 Библиотеки / Libraries:
 1) requests
